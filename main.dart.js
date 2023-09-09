@@ -80104,7 +80104,7 @@ n=n?B.kn:c
 n=A.a_M(new A.I8(new A.a8z(s,r,r,6),new A.zp(new A.aed(),6,!0,!0,!0,c),B.c2,B.aG,!1,c,c,n,!1,c,6,B.av,B.wI,c,B.a2,c))
 m=A.wU(!1,c,!0,B.P3,c,!0,c,c,c,c,c,c,c,c,c,new A.aee(),c,c,c,c)
 l=A.aX(c,10,c)
-k=A.bs(c,c,A.aO(c,c,B.i,c,c,c,c,c,c,c,c,c,c,c,c,c,c,!0,c,c,c,c,c,c,c,c),"Follow us on Twitter: ")
+k=A.bs(c,c,A.aO(c,c,B.i,c,c,c,c,c,c,c,c,c,c,c,c,c,c,!0,c,c,c,c,c,c,c,c),"Follow us on X / Twitter: ")
 j=A.bs(c,c,A.aO(c,c,B.i,c,c,c,c,c,c,c,c,c,c,c,c,c,c,!0,c,c,c,c,c,c,c,c),"S. Vincent Rajkumar, M.D. ")
 i=A.aO(c,c,B.bv,c,c,c,c,c,c,c,c,c,c,c,c,c,c,!0,c,c,c,c,c,c,c,c)
 h=A.p2(c,c)
@@ -80311,7 +80311,7 @@ r=A.aO(j,j,B.bv,j,j,j,j,j,j,j,j,r,j,j,j,j,j,!0,j,j,j,j,j,j,j,j)
 k=A.p2(j,j)
 k.aY=new A.WT(i,b)
 i=t.p
-return A.apI(A.fc(A.a([g,A.a_M(new A.bA(new A.at(s,s,s,s),A.d3(A.a([q,p,n,new A.qL(1,B.lT,m,j),o,A.KZ(j,j,B.bl,j,j,!0,j,A.bs(A.a([A.bs(j,k,r,h)],t.VO),j,l,"Twitter: @"),B.bk,j,j,1,B.aD)],i),B.bH,B.Q,B.bt,B.O),j))],i),B.L,B.Q,B.M),j)},
+return A.apI(A.fc(A.a([g,A.a_M(new A.bA(new A.at(s,s,s,s),A.d3(A.a([q,p,n,new A.qL(1,B.lT,m,j),o,A.KZ(j,j,B.bl,j,j,!0,j,A.bs(A.a([A.bs(j,k,r,h)],t.VO),j,l,"X / Twitter: @"),B.bk,j,j,1,B.aD)],i),B.bH,B.Q,B.bt,B.O),j))],i),B.L,B.Q,B.M),j)},
 $S:119}
 A.WT.prototype={
 $0(){var s=0,r=A.S(t.H),q=this,p
