@@ -1,5 +1,7 @@
 {
  "name": "Myelomarisk",
+ "shortname": "Myelomarisk",
+ "description": "A one-stop site to estimate risks of progression in Myeloma, Smoldering Multiple Myeloma, and MGUS.",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
