@@ -87838,7 +87838,7 @@ i=A.at("Is your serum LDH (U/L) above the normal upper limit?",f,f,f,A.aB(f,f,f,
 h=A.at("Please switch on if your LDH levels are above the normal range.",f,f,f,f,f,f)
 h=A.c2(f,new A.MH(g.r,new A.amf(g),i,h,f),B.o,f,f,f,f,f,f,f,f,f,d*0.5)
 i=A.nG(f,f,B.bK,f,f,f,f,f,f,B.i,f,f,f,f,new A.bV(A.ey(15),B.l),f,f,f,f)
-r=A.b([q,p,n,m,l,k,o,j,h,A.nF(A.at("Calculate Risk",f,f,f,f,f,f),g.ga3A(),i),A.an(f,r,f),A.FY("Zanwar, S., Le-Rademacher, J., Durot, E., D\u2019Sa, S., Abeykoon, J. P., Mondello, P., Kumar, S., Sarosiek, S., Paludo, J., Chhabra, S., Cook, J. M., Parrondo, R., Dispenzieri, A., Gonsalves, W. I., Muchtar, E., Ailawadhi, S., Kyle, R. A., Rajkumar, S. V., Delmer, A., . . . Kapoor, P. (2024). Simplified Risk Stratification Model for Patients With Waldenstr\xf6m Macroglobulinemia. Journal of Clinical Oncology.","https://doi.org/10.1200/jco.23.02066",d),A.an(f,r,f)],t.p)
+r=A.b([q,p,n,m,l,k,o,j,h,A.nF(A.at("Calculate Risk",f,f,f,f,f,f),g.ga3A(),i),A.an(f,r,f),A.FY("Zanwar, S., Le-Rademacher, J., Durot, E., et al. (2024). Simplified Risk Stratification Model for Patients With Waldenstr\xf6m Macroglobulinemia. Journal of Clinical Oncology.","https://doi.org/10.1200/jco.23.02066",d),A.an(f,r,f)],t.p)
 if(d>600){q=g.w
 q===$&&A.a()
 r.push(new A.jt(a.a,q,d,c,b,f))}return A.mg(new A.kh(e,B.dR,f),new A.hC(B.iA,f,f,new A.by(new A.au(s,0,s,0),A.nU(A.hi(A.cv(r,B.M,B.O,B.Q,B.P),f),g.d),f),f))}}
